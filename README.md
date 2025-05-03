@@ -1,4 +1,4 @@
-#My Programming Language
+My Programming Language
 This project implements a custom programming language with syntax, semantic analysis, and expression evaluation using Abstract Syntax Trees (AST). The language includes type declarations, function definitions, control structures, symbol tables, and error handling.
 
 Features
