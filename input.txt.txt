@@ -1,0 +1,52 @@
+class Exemplu{
+     int x;
+     int y;
+
+     Exemplu(int x, int y){
+          this.x = 100;
+          this.y = 5;
+     }
+
+     int sum1(int a, int b){
+          int x;
+          x=a+b;
+          return x;
+     }
+
+     int minus1()
+     {
+          return "fhefh";
+     }
+};
+
+int sum(int a, int b){
+      int x;
+     x=a+b;
+     return x;
+}
+
+int minus()
+{
+     return "fhefh";
+}
+
+int main(){
+    int v[109];
+     v[5] = 10;
+
+     int a, b;
+
+     Exemplu obj = new Exemplu();
+     Exemplu obj1 = new Exemplu(Param,P);
+
+     obj1.sum(a,b);
+     obj.minus1();
+
+     for(i=1; i<=10; i+=2){
+          if(v[i]%3==0){
+               x--;
+          }
+          x++;
+     }
+}
+
